@@ -1,5 +1,15 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif" width="100"/>
+  <div id="badges">
+    <a href="[your-linkedin-URL](https://vk.com/public192906131)">
+      <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UClcXKjsdWqMvF6lpS57c0Fg">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=AyurDondokov&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **AyurDondokov/AyurDondokov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
